@@ -1,2 +1,2 @@
-# K-c-kten-B-y-ge-S-ralayan-Program
+# Kucukten-Buyuge-Sıralayan-Program
 Patika Ödevi
